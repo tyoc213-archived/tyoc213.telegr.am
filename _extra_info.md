@@ -1,5 +1,5 @@
 ---
-blog_root: /_posts
+blog_root: /
 site_title: David OLA blog
 
 ---
