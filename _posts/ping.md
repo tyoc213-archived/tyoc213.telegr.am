@@ -1,5 +1,6 @@
 title: ping tyoc213
 date: 2013-10-4 19:49:00
+date: 2014-1-4 19:49:00
 
     PING tyoc213 (0.0.0.0): 56 data bytes
     64 bytes from 127.0.0.1: icmp_seq=0 ttl=52 time=65400.488 ms
@@ -12,3 +13,5 @@ date: 2013-10-4 19:49:00
 Después de mucho tiempo de vuelta contestando el ping con un **¡PONG!**
 
 ¿Porqué no dí _time-out_?
+
+Probablemente porque soy algo testarudo.
