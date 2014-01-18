@@ -1,5 +1,5 @@
 title: ping tyoc213
-date: 2013-10-4 19:49:00
+date0: 2013-10-4 19:49:00
 date: 2014-1-4 19:49:00
 
     PING tyoc213 (0.0.0.0): 56 data bytes
