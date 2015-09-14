@@ -1,4 +1,4 @@
 tyoc213-blog
 ============
 
-Blog@[http://tyoc213.telegr.am](http://tyoc213.telegr.am) powered by https://github.com/hoisted/hoisted
+Blog@[http://tyoc213.github.io](http://tyoc213.github.io) powered by https://pages.github.com/ && http://octopress.org
